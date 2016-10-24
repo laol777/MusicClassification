@@ -1,0 +1,47 @@
+Aggressive Агрессивное
+Angry Злое
+Arousing Пробуждение
+Atmospheric Атмосферная музыка
+Bittersweet Горько-сладкое
+Bleak Унылое
+Bright Яркое
+Calm Спокойное
+Carefree Беззаботное
+Cheerful Бодрое
+Confident Уверенное
+Dark Мрачное
+Dramatic Драматичное
+Dreamy Мечтательное
+Epic Эпичное
+Ethereal Эйфория
+Fear Страх
+Fiery Зажигательное
+Fragile Хрупкое
+Fun Веселое
+Happy Счастливое
+Heartbroken Разбитое сердце
+Hopeful Полное надежд
+Inspiring Вдохновляющее
+Intense Напряженное
+Love Любовь
+Melancholic Меланхоличное
+Mellow Мягкое
+Merry Жизнерадостное
+Optimistic Оптимистичное
+Playful Игривое
+Quirky Необычное
+Reflective Задумчивое
+Remorseful Сострадательное
+Romantic Романтичное
+Sad Грустное
+Sensual Чувственное
+Serene Спокойное
+Sexy Сексуальное
+Silly Шутливое
+Sophisticated Утонченное
+Spiritual Воодушевленное
+Tender Нежное
+Terror Ужас
+Uplifting Поднимающее настроение
+Wistful Тоскливое
+Worry Тревожное

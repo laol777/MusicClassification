@@ -1,0 +1,14 @@
+Angry Злое
+Carefree Беззаботное
+Chill Расслабляющее
+Contemplative Созерцательная
+Ecstatic Восторженная
+Eerie Жуткая
+Happy Счастливое
+Love Любовь
+Peaceful Спокойная
+Sad Грустное
+Serious Серьезная
+Somber Мрачная
+Tense Напряженная
+Uplifting Поднимающее настроение
